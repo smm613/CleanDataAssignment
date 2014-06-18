@@ -19,6 +19,7 @@ June 2014
 DATA FILES
 
 The script that created the two data sets, called run_analysis.R, is included in the repository.  The script assumes that the zipped file containing the assignment information has been downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.  The files were unzipped to the R working directory.  The following files were used in the script:
+
 1.	activity_labels.txt (found in the UCI HAR Dataset folder)
 2.	features.txt (found in the UCI HAR Dataset folder)
 3.	subject_test.txt (found in the UCI HAR Dataset/test folder)
